@@ -16,8 +16,7 @@ This project is a ChatGPT-style assistant that answers questions based on the co
 ### How to Run
 
 #### 1. Clone the Repository
-git clone https://github.com/yourusername/pdf-qa-chatbot.git
-cd pdf-qa-chatbot
+
 
 #### 2. Install Requirements
 It is recommended to use a virtual environment:
